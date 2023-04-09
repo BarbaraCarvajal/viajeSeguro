@@ -19,8 +19,8 @@
         app:menu="@menu/navegacion_menu"
         android:layout_gravity="bottom"
         android:background="@drawable/degradado1"
-        app:itemIconTint="@color/white"
-        app:itemTextColor="@color/white"
+        app:itemIconTint="@color/black"
+        app:itemTextColor="@color/black"
 
 
     />

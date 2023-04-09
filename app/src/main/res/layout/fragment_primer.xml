@@ -20,7 +20,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Viajando Feliz y Seguro"
+        android:text="Viajando \nFeliz y Seguro"
+        android:textAlignment="center"
         android:textStyle="bold"
         android:textColor="@color/black"
         android:textSize="25sp" />
